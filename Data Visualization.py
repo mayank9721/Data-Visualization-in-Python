@@ -8,14 +8,14 @@
 get_ipython().run_line_magic('pylab', 'inline')
 import pandas 
 import seaborn
-data=pandas.read_csv('Desktop/uber-raw-data-apr14.csv')
+data=pandas.read_csv('Desktop/cab_data.csv')
 
-data=pandas.read_csv('Desktop/uber-raw-data-apr14.csv')
+data=pandas.read_csv('Desktop/cab_data.csv')
 
 
 data
 
-data=pandas.read_csv('Desktop/uber-raw-data-apr14.csv')
+data=pandas.read_csv('Desktop/cab_data.csv')
 
 data
 
